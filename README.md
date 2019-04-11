@@ -6,7 +6,10 @@ Rachel - member to watch the IT Group on netflix.
 Lets add some text here. YAY
 
 ## Purpose
+What is the purpose??
 
 ## How to Contribute
 
 ## Deployment
+Deployment Here
+Deployment Here
