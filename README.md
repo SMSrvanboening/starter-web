@@ -3,6 +3,7 @@ This is a silly little project. But rather fun.
 Rachel - member to watch the IT Group on netflix. 
 
 ## Introduction
+Lets add some text here. YAY
 
 ## Purpose
 
