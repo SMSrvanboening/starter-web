@@ -8,8 +8,4 @@ Lets add some text here. YAY
 ## Purpose
 What is the purpose??
 
-## How to Contribute
-
-## Deployment
-Deployment Here
-Deployment Here
+## How To Contribute
