@@ -15,3 +15,6 @@ Adding some text here
 Adding some text to deployment
 
 ## Rachel's Section
+
+### Copyright 
+2019 Rachel Copyright
