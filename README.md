@@ -12,3 +12,6 @@ What is the purpose??
 Adding some text here
 
 ## Deployment
+Adding some text to deployment
+
+## Rachel's Section
