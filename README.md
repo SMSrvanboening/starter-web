@@ -18,7 +18,7 @@ Adding some text to deployment
 Updating this on the master branch
 
 ### Copyright 
-2019 Rachel Copyright
+2019 Rachel Copyright All right reserved. 
 
 ## Students
 Adding this for rebasing ex.
