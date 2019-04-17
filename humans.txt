@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Rachel VB	rachel@rachel.com
+	John T		john@john.com
 
 # THANKS
 
