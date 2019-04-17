@@ -19,3 +19,6 @@ Updating this on the master branch
 
 ### Copyright 
 2019 Rachel Copyright
+
+## Students
+Adding this for rebasing ex.
